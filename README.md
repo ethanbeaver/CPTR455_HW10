@@ -1,8 +1,8 @@
-# Homework 5
+# Homework 10
 
-This is the programming portion of homework number 5 for CPTR454
+This homework number 10 for CPTR454
 
-It's problem \#11 from section 6.4
+It's problem \#8 from section 11.4.
 
 ## Getting Started
 
@@ -12,17 +12,13 @@ Below details how to run this assignment.
 
 ```
 Python3
-Numpy
 ```
 
-### Installing
+### Running the Program
 
-First, install the Numpy package for Python3.
-
-Then, run the file using python3.
+Run the `main.py` file using python3.
 
 ```
-pip3 install numpy
 python3 hw5.py
 ```
 

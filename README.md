@@ -19,7 +19,7 @@ Python3
 Run the `main.py` file using python3.
 
 ```
-python3 hw5.py
+python3 main.py
 ```
 
 ## Authors
